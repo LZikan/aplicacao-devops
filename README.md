@@ -1,9 +1,6 @@
-# Nome do Projeto
+# Ferramentas de Implantação Contínua - DevOps
 
-## Descrição
-
-Ferramentas de Implantação Contínua - DevOps
-Avaliação 1
+## Avaliação 1
 
 ## Tecnologias Utilizadas
 
