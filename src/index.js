@@ -7,7 +7,7 @@ const port = 3333
 const data = {
     'integrantes':[
         {'nome':'Luis Felipe Rodrigues Barbosa'},
-        {'nome':'Lucas Zikan'},
+        {'nome':'Lucas Zikan da Silva Binhotti'},
         {'nome':'Luiz Otavio Amboni'},
     ],
 }
