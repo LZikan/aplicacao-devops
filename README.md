@@ -23,7 +23,7 @@ CSS
     ```
 
 3. Instale as dependências:
-        ```bash
+    ```bash
     npm run start
     ```
 
